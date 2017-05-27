@@ -1,4 +1,5 @@
 # lea
+# MALWARE & [PoC] windows backdoor,latests:norton bypass, forged-certificates, 24/5/2017 CVE-2017-8542
 lea is a cute backdoor, it looks for available networks, including printers
 and all internet connected devices, enter it self to the registry under:"SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
 as to run on system start-up, opens up port-8000 & listen for incoming command to execute as admin.
