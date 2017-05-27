@@ -49,13 +49,7 @@ download lea, she's the best!
 
 ![](gif.gif)
 # description
-       23/5/2017- we downloaded the latests Symantec-norton at nr.tn/2qeLkiE
-       at first the anti-virus didnt want to activate the software but after getting 
-       the software signed, and downloaded about a- thousand times 
-       (by norton-users dha..)
-       then the software passed the norton scanner.
-       {{we even gave it a nice java update logo}}(and its writen in c#..)
-       ((that is 76.9 kB, meaning that lea is only, 5.1kb))
+       TODO
 <img src="digital.png" width="800">
        after running the software (not as admin or anything),
        we got a backdoor operating on port 8000,
@@ -71,23 +65,4 @@ download lea, she's the best!
 <img src="active.jpg" width="500">
        The latest Symantec-norton in Action!
 <img src="norton.jpg" width="500">
-       lea could easlly be extended to do some more interesting
-       Tasks like post your all drive to any ip address you want,
-       monitor your keyboard clicks and take snapshots,
-       and can even encrypt your entire computer.
-       download lea, she's the best!
-       
-# HowTo avoid lea?
-    we dont really know, if you download lea,
-    and open it mmm.. thats it.
-    a good advice on our opinion is to go linux!
-# How come it gets to make system changes with no admin rights?
-       lea looks for printers and shared users directory's,
-       it connects on an external port, dou to sharing configurations
-       made by windows default printers connected to the device.
-       lea commites only one registry key, as stated above, 
-       and can do so becouse of default permitions configuration's
-       at the win10 that was maid to allow software like mcAfee,
-       google cloud, etc' make changes to the CurrentVersion\\Run section
-       at the registry.
 <a href="https://sp7.co/manifest">website<a>
