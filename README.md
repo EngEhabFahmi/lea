@@ -7,6 +7,12 @@ lea passes the newest norton anti-virus scan, and doesn't ask for permission to 
 and to register at the windows current config. 
 download lea, she's the best!
 
+# Timeline:
+<html>
+<p>Reported: May 24 17</p>
+<p>May 27 Added to <a href="https://www.microsoft.com/security/portal/threat/encyclopedia/">Microsoft Threat Portal</a></p>
+<img src="rep.jpg" width="700">
+</html>
 
 ..
 
